@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
